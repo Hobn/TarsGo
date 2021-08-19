@@ -1,4 +1,4 @@
-module github.com/hobn/TarsGo/tarsgo-ext
+module github.com/hobn/TarsGo
 
 go 1.13
 
